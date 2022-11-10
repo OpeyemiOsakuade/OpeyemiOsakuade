@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @OpeyemiOsakuade
-- 👀 I’m interested in Speech recognition and Synthesis tasks
-- 🌱 I’m currently learning the fundamentals of speech processing
-- 💞️ I’m looking to collaborate on project related to the above
+- 👋 Hi, I’m Opeyemi Osakuade, a first year, NLP Ph.D student at the University of Edinburgh.
+- 👀 I’m interested in Speech Recognition and Synthesis tasks
+- 🌱 I’m currently learning the fundamentals of speech and signal processing
+- 💞️ I’m looking to collaborate on projects related to the above
 - 📫 How to reach me @ osakuadeopeyemi@gmail.com
 
 
