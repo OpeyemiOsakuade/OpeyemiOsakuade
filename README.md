@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning the fundamentals of speech and signal processing
 - 💞️ I’m looking to collaborate on projects related to the above
 - 📫 How to reach me @ osakuadeopeyemi@gmail.com
+- My website is currently under construction 😉
 
 
 <!---
